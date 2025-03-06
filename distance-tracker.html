@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Distance Tracker</title>
+    <style>
+        body {
+            text-align: center;
+        }
+        #svgCanvas {
+            border: 1px solid black;
+            cursor: crosshair;
+        }
+        #speedDisplay {
+            font-size: 20px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<svg id="svgCanvas" width="500" height="400">
+    <line id="distanceLine" x1="50" y1="200" x2="200" y2="200" stroke="blue" stroke-width="4"/>
+    <circle id="handle" cx="200" cy="200" r="8" fill="red" cursor="pointer"/>
+</svg>
+
+<div id="speedDisplay">Speed: 100 units/sec</div>
+
+<script>
+    let svg = document.getElementById("svgCanvas");
+    let line = document.getElementById("distanceLine");
+    let handle = document.getElementById("handle");
+    let speedDisplay = document.getElementById("speedDisplay");
+
+    let isDragging = false;
+    let initialSpeed = 100; // Starting speed (units/sec)
+    let startX = 50, startY = 200; // Fixed start position
+
+    handle.addEventListener("mousedown", () => isDragging = true);
+    window.addEventListener("mouseup", () => isDragging = false);
+
+    window.addEventListener("mousemove", (event) => {
+        if (!isDragging) return;
+
+        let rect = svg.getBoundingClientRect();
+        let x = event.clientX - rect.left;
+        let y = event.clientY - rect.top;
+
+        // Update the line endpoint
+        line.setAttribute("x2", x);
+        line.setAttribute("y2", y);
+        handle.setAttribute("cx", x);
+        handle.setAttribute("cy", y);
+
+        // Calculate distance
+        let dx = x - startX;
+        let dy = y - startY;
+        let distance = Math.sqrt(dx * dx + dy * dy);
+
+        // Adjust speed proportionally (you can tweak this formula)
+        let newSpeed = initialSpeed + (distance / 5);
+        speedDisplay.innerText = `Speed: ${newSpeed.toFixed(2)} units/sec`;
+    });
+</script>
+
+</body>
+</html>
