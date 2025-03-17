@@ -1,0 +1,1020 @@
+**Aatrox**
+Aatrox Q: ❌ No (None)
+Aatrox W: ❌ No (None)
+Aatrox E: ❌ No (None)
+Aatrox R: ✅ Yes (fear)
+
+**Ahri**
+Ahri Q: ❌ No (None)
+Ahri W: ❌ No (None)
+Ahri E: ✅ Yes (charm)
+Ahri R: ❌ No (None)
+
+**Akali**
+Akali Q: ✅ Yes (slow)
+Akali W: ❌ No (None)
+Akali E: ❌ No (None)
+Akali R: ❌ No (None)
+
+**Akshan**
+Akshan Q: ❌ No (None)
+Akshan W: ❌ No (None)
+Akshan E: ❌ No (None)
+Akshan R: ❌ No (None)
+
+**Alistar**
+Alistar Q: ❌ No (None)
+Alistar W: ❌ No (None)
+Alistar E: ✅ Yes (stun)
+Alistar R: ❌ No (None)
+
+**Ambessa**
+Ambessa Q: ❌ No (None)
+Ambessa W: ❌ No (None)
+Ambessa E: ✅ Yes (slow)
+Ambessa R: ✅ Yes (stun, suppress)
+
+**Amumu**
+Amumu Q: ✅ Yes (stun)
+Amumu W: ❌ No (None)
+Amumu E: ❌ No (None)
+Amumu R: ✅ Yes (stun)
+
+**Anivia**
+Anivia Q: ✅ Yes (stun)
+Anivia W: ❌ No (None)
+Anivia E: ❌ No (None)
+Anivia R: ✅ Yes (slow)
+
+**Annie**
+Annie Q: ❌ No (None)
+Annie W: ❌ No (None)
+Annie E: ❌ No (None)
+Annie R: ❌ No (None)
+
+**Aphelios**
+Aphelios Q: ✅ Yes (slow, root)
+Aphelios W: ❌ No (None)
+Aphelios E: ❌ No (None)
+Aphelios R: ❌ No (None)
+
+**Ashe**
+Ashe Q: ❌ No (None)
+Ashe W: ❌ No (None)
+Ashe E: ❌ No (None)
+Ashe R: ✅ Yes (stun, slow)
+
+**AurelionSol**
+AurelionSol Q: ❌ No (None)
+AurelionSol W: ❌ No (None)
+AurelionSol E: ✅ Yes (slow)
+AurelionSol R: ✅ Yes (stun, slow)
+
+**Aurora**
+Aurora Q: ❌ No (None)
+Aurora W: ❌ No (None)
+Aurora E: ✅ Yes (slow)
+Aurora R: ✅ Yes (slow)
+
+**Azir**
+Azir Q: ✅ Yes (slow)
+Azir W: ❌ No (None)
+Azir E: ❌ No (None)
+Azir R: ❌ No (None)
+
+**Bard**
+Bard Q: ✅ Yes (stun, slow)
+Bard W: ❌ No (None)
+Bard E: ❌ No (None)
+Bard R: ❌ No (None)
+
+**Belveth**
+Belveth Q: ❌ No (None)
+Belveth W: ✅ Yes (slow)
+Belveth E: ✅ Yes (root)
+Belveth R: ❌ No (None)
+
+**Blitzcrank**
+Blitzcrank Q: ❌ No (None)
+Blitzcrank W: ✅ Yes (slow)
+Blitzcrank E: ❌ No (None)
+Blitzcrank R: ✅ Yes (silence)
+
+**Brand**
+Brand Q: ✅ Yes (stun)
+Brand W: ❌ No (None)
+Brand E: ❌ No (None)
+Brand R: ✅ Yes (slow)
+
+**Braum**
+Braum Q: ✅ Yes (slow)
+Braum W: ❌ No (None)
+Braum E: ❌ No (None)
+Braum R: ✅ Yes (slow)
+
+**Briar**
+Briar Q: ✅ Yes (stun)
+Briar W: ❌ No (None)
+Briar E: ✅ Yes (stun, slow)
+Briar R: ✅ Yes (fear)
+
+**Caitlyn**
+Caitlyn Q: ❌ No (None)
+Caitlyn W: ❌ No (None)
+Caitlyn E: ✅ Yes (slow)
+Caitlyn R: ❌ No (None)
+
+**Camille**
+Camille Q: ❌ No (None)
+Camille W: ✅ Yes (slow)
+Camille E: ❌ No (None)
+Camille R: ❌ No (None)
+
+**Cassiopeia**
+Cassiopeia Q: ❌ No (None)
+Cassiopeia W: ✅ Yes (slow)
+Cassiopeia E: ❌ No (None)
+Cassiopeia R: ✅ Yes (stun, slow)
+
+**Chogath**
+Chogath Q: ✅ Yes (slow)
+Chogath W: ❌ No (None)
+Chogath E: ✅ Yes (slow)
+Chogath R: ❌ No (None)
+
+**Corki**
+Corki Q: ❌ No (None)
+Corki W: ❌ No (None)
+Corki E: ❌ No (None)
+Corki R: ❌ No (None)
+
+**Darius**
+Darius Q: ❌ No (None)
+Darius W: ✅ Yes (slow)
+Darius E: ❌ No (None)
+Darius R: ❌ No (None)
+
+**Diana**
+Diana Q: ❌ No (None)
+Diana W: ❌ No (None)
+Diana E: ❌ No (None)
+Diana R: ✅ Yes (slow)
+
+**DrMundo**
+DrMundo Q: ✅ Yes (slow)
+DrMundo W: ❌ No (None)
+DrMundo E: ❌ No (None)
+DrMundo R: ❌ No (None)
+
+**Draven**
+Draven Q: ❌ No (None)
+Draven W: ❌ No (None)
+Draven E: ✅ Yes (slow)
+Draven R: ✅ Yes (slow)
+
+**Ekko**
+Ekko Q: ✅ Yes (slow)
+Ekko W: ✅ Yes (stun, slow)
+Ekko E: ❌ No (None)
+Ekko R: ❌ No (None)
+
+**Elise**
+Elise Q: ❌ No (None)
+Elise W: ❌ No (None)
+Elise E: ✅ Yes (stun)
+Elise R: ❌ No (None)
+
+**Evelynn**
+Evelynn Q: ❌ No (None)
+Evelynn W: ✅ Yes (charm)
+Evelynn E: ❌ No (None)
+Evelynn R: ❌ No (None)
+
+**Ezreal**
+Ezreal Q: ❌ No (None)
+Ezreal W: ❌ No (None)
+Ezreal E: ❌ No (None)
+Ezreal R: ❌ No (None)
+
+**Fiddlesticks**
+Fiddlesticks Q: ✅ Yes (fear)
+Fiddlesticks W: ❌ No (None)
+Fiddlesticks E: ✅ Yes (slow)
+Fiddlesticks R: ❌ No (None)
+
+**Fiora**
+Fiora Q: ❌ No (None)
+Fiora W: ✅ Yes (stun, slow)
+Fiora E: ✅ Yes (slow)
+Fiora R: ❌ No (None)
+
+**Fizz**
+Fizz Q: ❌ No (None)
+Fizz W: ❌ No (None)
+Fizz E: ❌ No (None)
+Fizz R: ✅ Yes (slow)
+
+**Galio**
+Galio Q: ❌ No (None)
+Galio W: ✅ Yes (slow, taunt)
+Galio E: ❌ No (None)
+Galio R: ❌ No (None)
+
+**Gangplank**
+Gangplank Q: ❌ No (None)
+Gangplank W: ❌ No (None)
+Gangplank E: ✅ Yes (slow)
+Gangplank R: ✅ Yes (slow)
+
+**Garen**
+Garen Q: ✅ Yes (slow)
+Garen W: ❌ No (None)
+Garen E: ❌ No (None)
+Garen R: ❌ No (None)
+
+**Gnar**
+Gnar Q: ✅ Yes (slow)
+Gnar W: ✅ Yes (stun)
+Gnar E: ❌ No (None)
+Gnar R: ✅ Yes (stun, slow)
+
+**Gragas**
+Gragas Q: ✅ Yes (slow)
+Gragas W: ❌ No (None)
+Gragas E: ✅ Yes (stun)
+Gragas R: ❌ No (None)
+
+**Graves**
+Graves Q: ❌ No (None)
+Graves W: ❌ No (None)
+Graves E: ❌ No (None)
+Graves R: ❌ No (None)
+
+**Gwen**
+Gwen Q: ❌ No (None)
+Gwen W: ❌ No (None)
+Gwen E: ❌ No (None)
+Gwen R: ✅ Yes (slow)
+
+**Hecarim**
+Hecarim Q: ❌ No (None)
+Hecarim W: ❌ No (None)
+Hecarim E: ❌ No (None)
+Hecarim R: ❌ No (None)
+
+**Heimerdinger**
+Heimerdinger Q: ❌ No (None)
+Heimerdinger W: ❌ No (None)
+Heimerdinger E: ✅ Yes (stun, slow)
+Heimerdinger R: ❌ No (None)
+
+**Hwei**
+Hwei Q: ❌ No (None)
+Hwei W: ❌ No (None)
+Hwei E: ❌ No (None)
+Hwei R: ✅ Yes (slow)
+
+**Illaoi**
+Illaoi Q: ❌ No (None)
+Illaoi W: ❌ No (None)
+Illaoi E: ❌ No (None)
+Illaoi R: ❌ No (None)
+
+**Irelia**
+Irelia Q: ❌ No (None)
+Irelia W: ❌ No (None)
+Irelia E: ✅ Yes (stun)
+Irelia R: ✅ Yes (slow)
+
+**Ivern**
+Ivern Q: ✅ Yes (root)
+Ivern W: ❌ No (None)
+Ivern E: ✅ Yes (slow)
+Ivern R: ❌ No (None)
+
+**Janna**
+Janna Q: ❌ No (None)
+Janna W: ✅ Yes (slow)
+Janna E: ❌ No (None)
+Janna R: ❌ No (None)
+
+**JarvanIV**
+JarvanIV Q: ❌ No (None)
+JarvanIV W: ✅ Yes (slow)
+JarvanIV E: ❌ No (None)
+JarvanIV R: ❌ No (None)
+
+**Jax**
+Jax Q: ❌ No (None)
+Jax W: ❌ No (None)
+Jax E: ✅ Yes (stun)
+Jax R: ❌ No (None)
+
+**Jayce**
+Jayce Q: ✅ Yes (slow)
+Jayce W: ❌ No (None)
+Jayce E: ❌ No (None)
+Jayce R: ❌ No (None)
+
+**Jhin**
+Jhin Q: ❌ No (None)
+Jhin W: ✅ Yes (root)
+Jhin E: ✅ Yes (slow)
+Jhin R: ✅ Yes (slow, cripple)
+
+**Jinx**
+Jinx Q: ✅ Yes (slow)
+Jinx W: ✅ Yes (slow)
+Jinx E: ✅ Yes (root)
+Jinx R: ❌ No (None)
+
+**KSante**
+KSante Q: ✅ Yes (slow)
+KSante W: ✅ Yes (stun)
+KSante E: ❌ No (None)
+KSante R: ❌ No (None)
+
+**Kaisa**
+Kaisa Q: ❌ No (None)
+Kaisa W: ❌ No (None)
+Kaisa E: ❌ No (None)
+Kaisa R: ❌ No (None)
+
+**Kalista**
+Kalista Q: ❌ No (None)
+Kalista W: ❌ No (None)
+Kalista E: ✅ Yes (slow)
+Kalista R: ❌ No (None)
+
+**Karma**
+Karma Q: ❌ No (None)
+Karma W: ✅ Yes (root)
+Karma E: ❌ No (None)
+Karma R: ❌ No (None)
+
+**Karthus**
+Karthus Q: ❌ No (None)
+Karthus W: ❌ No (None)
+Karthus E: ❌ No (None)
+Karthus R: ❌ No (None)
+
+**Kassadin**
+Kassadin Q: ❌ No (None)
+Kassadin W: ❌ No (None)
+Kassadin E: ✅ Yes (slow)
+Kassadin R: ❌ No (None)
+
+**Katarina**
+Katarina Q: ❌ No (None)
+Katarina W: ❌ No (None)
+Katarina E: ❌ No (None)
+Katarina R: ❌ No (None)
+
+**Kayle**
+Kayle Q: ✅ Yes (slow)
+Kayle W: ❌ No (None)
+Kayle E: ❌ No (None)
+Kayle R: ❌ No (None)
+
+**Kayn**
+Kayn Q: ❌ No (None)
+Kayn W: ✅ Yes (slow)
+Kayn E: ❌ No (None)
+Kayn R: ❌ No (None)
+
+**Kennen**
+Kennen Q: ❌ No (None)
+Kennen W: ❌ No (None)
+Kennen E: ❌ No (None)
+Kennen R: ❌ No (None)
+
+**Khazix**
+Khazix Q: ✅ Yes (fear)
+Khazix W: ✅ Yes (slow)
+Khazix E: ❌ No (None)
+Khazix R: ❌ No (None)
+
+**Kindred**
+Kindred Q: ❌ No (None)
+Kindred W: ❌ No (None)
+Kindred E: ✅ Yes (slow)
+Kindred R: ❌ No (None)
+
+**Kled**
+Kled Q: ❌ No (None)
+Kled W: ❌ No (None)
+Kled E: ❌ No (None)
+Kled R: ❌ No (None)
+
+**KogMaw**
+KogMaw Q: ❌ No (None)
+KogMaw W: ❌ No (None)
+KogMaw E: ✅ Yes (slow)
+KogMaw R: ❌ No (None)
+
+**Leblanc**
+Leblanc Q: ❌ No (None)
+Leblanc W: ❌ No (None)
+Leblanc E: ✅ Yes (root)
+Leblanc R: ❌ No (None)
+
+**LeeSin**
+LeeSin Q: ❌ No (None)
+LeeSin W: ❌ No (None)
+LeeSin E: ✅ Yes (cripple)
+LeeSin R: ❌ No (None)
+
+**Leona**
+Leona Q: ✅ Yes (stun)
+Leona W: ❌ No (None)
+Leona E: ❌ No (None)
+Leona R: ✅ Yes (stun, slow)
+
+**Lillia**
+Lillia Q: ❌ No (None)
+Lillia W: ❌ No (None)
+Lillia E: ✅ Yes (slow)
+Lillia R: ✅ Yes (sleep)
+
+**Lissandra**
+Lissandra Q: ✅ Yes (slow)
+Lissandra W: ✅ Yes (root)
+Lissandra E: ❌ No (None)
+Lissandra R: ✅ Yes (stun, slow)
+
+**Lucian**
+Lucian Q: ❌ No (None)
+Lucian W: ❌ No (None)
+Lucian E: ❌ No (None)
+Lucian R: ❌ No (None)
+
+**Lulu**
+Lulu Q: ✅ Yes (slow)
+Lulu W: ❌ No (None)
+Lulu E: ❌ No (None)
+Lulu R: ✅ Yes (slow)
+
+**Lux**
+Lux Q: ❌ No (None)
+Lux W: ❌ No (None)
+Lux E: ✅ Yes (slow)
+Lux R: ❌ No (None)
+
+**Malphite**
+Malphite Q: ❌ No (None)
+Malphite W: ❌ No (None)
+Malphite E: ❌ No (None)
+Malphite R: ❌ No (None)
+
+**Malzahar**
+Malzahar Q: ✅ Yes (silence)
+Malzahar W: ❌ No (None)
+Malzahar E: ❌ No (None)
+Malzahar R: ✅ Yes (suppress)
+
+**Maokai**
+Maokai Q: ✅ Yes (slow)
+Maokai W: ✅ Yes (root)
+Maokai E: ❌ No (None)
+Maokai R: ✅ Yes (slow, root)
+
+**MasterYi**
+MasterYi Q: ✅ Yes (blind)
+MasterYi W: ❌ No (None)
+MasterYi E: ❌ No (None)
+MasterYi R: ✅ Yes (slow)
+
+**Mel**
+Mel Q: ❌ No (None)
+Mel W: ❌ No (None)
+Mel E: ✅ Yes (slow, root)
+Mel R: ❌ No (None)
+
+**Milio**
+Milio Q: ✅ Yes (slow)
+Milio W: ❌ No (None)
+Milio E: ❌ No (None)
+Milio R: ❌ No (None)
+
+**MissFortune**
+MissFortune Q: ❌ No (None)
+MissFortune W: ❌ No (None)
+MissFortune E: ✅ Yes (slow)
+MissFortune R: ❌ No (None)
+
+**MonkeyKing**
+MonkeyKing Q: ❌ No (None)
+MonkeyKing W: ❌ No (None)
+MonkeyKing E: ❌ No (None)
+MonkeyKing R: ❌ No (None)
+
+**Mordekaiser**
+Mordekaiser Q: ❌ No (None)
+Mordekaiser W: ❌ No (None)
+Mordekaiser E: ❌ No (None)
+Mordekaiser R: ❌ No (None)
+
+**Morgana**
+Morgana Q: ❌ No (None)
+Morgana W: ❌ No (None)
+Morgana E: ❌ No (None)
+Morgana R: ✅ Yes (stun, slow)
+
+**Naafiri**
+Naafiri Q: ❌ No (None)
+Naafiri W: ❌ No (None)
+Naafiri E: ❌ No (None)
+Naafiri R: ❌ No (None)
+
+**Nami**
+Nami Q: ✅ Yes (stun)
+Nami W: ❌ No (None)
+Nami E: ✅ Yes (slow)
+Nami R: ✅ Yes (slow)
+
+**Nasus**
+Nasus Q: ❌ No (None)
+Nasus W: ❌ No (None)
+Nasus E: ❌ No (None)
+Nasus R: ❌ No (None)
+
+**Nautilus**
+Nautilus Q: ❌ No (None)
+Nautilus W: ❌ No (None)
+Nautilus E: ✅ Yes (slow)
+Nautilus R: ✅ Yes (stun)
+
+**Neeko**
+Neeko Q: ❌ No (None)
+Neeko W: ❌ No (None)
+Neeko E: ✅ Yes (root)
+Neeko R: ❌ No (None)
+
+**Nidalee**
+Nidalee Q: ❌ No (None)
+Nidalee W: ❌ No (None)
+Nidalee E: ❌ No (None)
+Nidalee R: ❌ No (None)
+
+**Nilah**
+Nilah Q: ❌ No (None)
+Nilah W: ❌ No (None)
+Nilah E: ❌ No (None)
+Nilah R: ❌ No (None)
+
+**Nocturne**
+Nocturne Q: ❌ No (None)
+Nocturne W: ❌ No (None)
+Nocturne E: ✅ Yes (fear)
+Nocturne R: ❌ No (None)
+
+**Nunu**
+Nunu Q: ❌ No (None)
+Nunu W: ❌ No (None)
+Nunu E: ✅ Yes (root)
+Nunu R: ✅ Yes (slow)
+
+**Olaf**
+Olaf Q: ❌ No (None)
+Olaf W: ❌ No (None)
+Olaf E: ❌ No (None)
+Olaf R: ❌ No (None)
+
+**Orianna**
+Orianna Q: ❌ No (None)
+Orianna W: ✅ Yes (slow)
+Orianna E: ❌ No (None)
+Orianna R: ❌ No (None)
+
+**Ornn**
+Ornn Q: ✅ Yes (slow)
+Ornn W: ❌ No (None)
+Ornn E: ❌ No (None)
+Ornn R: ✅ Yes (slow)
+
+**Pantheon**
+Pantheon Q: ❌ No (None)
+Pantheon W: ✅ Yes (stun)
+Pantheon E: ❌ No (None)
+Pantheon R: ❌ No (None)
+
+**Poppy**
+Poppy Q: ✅ Yes (slow)
+Poppy W: ✅ Yes (slow)
+Poppy E: ✅ Yes (stun)
+Poppy R: ❌ No (None)
+
+**Pyke**
+Pyke Q: ❌ No (None)
+Pyke W: ❌ No (None)
+Pyke E: ✅ Yes (stun)
+Pyke R: ❌ No (None)
+
+**Qiyana**
+Qiyana Q: ❌ No (None)
+Qiyana W: ❌ No (None)
+Qiyana E: ❌ No (None)
+Qiyana R: ✅ Yes (stun)
+
+**Quinn**
+Quinn Q: ❌ No (None)
+Quinn W: ❌ No (None)
+Quinn E: ✅ Yes (slow)
+Quinn R: ❌ No (None)
+
+**Rakan**
+Rakan Q: ❌ No (None)
+Rakan W: ❌ No (None)
+Rakan E: ❌ No (None)
+Rakan R: ✅ Yes (charm)
+
+**Rammus**
+Rammus Q: ✅ Yes (slow)
+Rammus W: ❌ No (None)
+Rammus E: ✅ Yes (taunt)
+Rammus R: ✅ Yes (slow)
+
+**RekSai**
+RekSai Q: ❌ No (None)
+RekSai W: ❌ No (None)
+RekSai E: ❌ No (None)
+RekSai R: ❌ No (None)
+
+**Rell**
+Rell Q: ✅ Yes (stun)
+Rell W: ✅ Yes (slow)
+Rell E: ❌ No (None)
+Rell R: ❌ No (None)
+
+**Renata**
+Renata Q: ✅ Yes (root)
+Renata W: ❌ No (None)
+Renata E: ✅ Yes (slow)
+Renata R: ❌ No (None)
+
+**Renekton**
+Renekton Q: ❌ No (None)
+Renekton W: ✅ Yes (stun)
+Renekton E: ❌ No (None)
+Renekton R: ❌ No (None)
+
+**Rengar**
+Rengar Q: ❌ No (None)
+Rengar W: ❌ No (None)
+Rengar E: ✅ Yes (slow, root)
+Rengar R: ❌ No (None)
+
+**Riven**
+Riven Q: ❌ No (None)
+Riven W: ✅ Yes (stun)
+Riven E: ❌ No (None)
+Riven R: ❌ No (None)
+
+**Rumble**
+Rumble Q: ❌ No (None)
+Rumble W: ❌ No (None)
+Rumble E: ✅ Yes (slow)
+Rumble R: ✅ Yes (slow)
+
+**Ryze**
+Ryze Q: ❌ No (None)
+Ryze W: ✅ Yes (slow, root)
+Ryze E: ❌ No (None)
+Ryze R: ❌ No (None)
+
+**Samira**
+Samira Q: ❌ No (None)
+Samira W: ❌ No (None)
+Samira E: ❌ No (None)
+Samira R: ❌ No (None)
+
+**Sejuani**
+Sejuani Q: ❌ No (None)
+Sejuani W: ✅ Yes (slow)
+Sejuani E: ✅ Yes (stun)
+Sejuani R: ✅ Yes (stun, slow)
+
+**Senna**
+Senna Q: ❌ No (None)
+Senna W: ✅ Yes (root)
+Senna E: ❌ No (None)
+Senna R: ❌ No (None)
+
+**Seraphine**
+Seraphine Q: ❌ No (None)
+Seraphine W: ❌ No (None)
+Seraphine E: ❌ No (None)
+Seraphine R: ✅ Yes (charm)
+
+**Sett**
+Sett Q: ❌ No (None)
+Sett W: ❌ No (None)
+Sett E: ✅ Yes (stun, slow)
+Sett R: ✅ Yes (slow)
+
+**Shaco**
+Shaco Q: ❌ No (None)
+Shaco W: ✅ Yes (fear)
+Shaco E: ✅ Yes (slow)
+Shaco R: ❌ No (None)
+
+**Shen**
+Shen Q: ✅ Yes (slow)
+Shen W: ❌ No (None)
+Shen E: ✅ Yes (taunt)
+Shen R: ❌ No (None)
+
+**Shyvana**
+Shyvana Q: ❌ No (None)
+Shyvana W: ❌ No (None)
+Shyvana E: ❌ No (None)
+Shyvana R: ❌ No (None)
+
+**Singed**
+Singed Q: ❌ No (None)
+Singed W: ✅ Yes (slow)
+Singed E: ✅ Yes (root)
+Singed R: ❌ No (None)
+
+**Sion**
+Sion Q: ✅ Yes (stun)
+Sion W: ❌ No (None)
+Sion E: ✅ Yes (slow)
+Sion R: ❌ No (None)
+
+**Sivir**
+Sivir Q: ❌ No (None)
+Sivir W: ❌ No (None)
+Sivir E: ❌ No (None)
+Sivir R: ❌ No (None)
+
+**Skarner**
+Skarner Q: ❌ No (None)
+Skarner W: ✅ Yes (slow)
+Skarner E: ✅ Yes (stun)
+Skarner R: ✅ Yes (suppress)
+
+**Smolder**
+Smolder Q: ❌ No (None)
+Smolder W: ❌ No (None)
+Smolder E: ❌ No (None)
+Smolder R: ✅ Yes (slow)
+
+**Sona**
+Sona Q: ❌ No (None)
+Sona W: ❌ No (None)
+Sona E: ❌ No (None)
+Sona R: ✅ Yes (stun)
+
+**Soraka**
+Soraka Q: ✅ Yes (slow)
+Soraka W: ❌ No (None)
+Soraka E: ✅ Yes (root, silence)
+Soraka R: ❌ No (None)
+
+**Swain**
+Swain Q: ❌ No (None)
+Swain W: ✅ Yes (slow)
+Swain E: ✅ Yes (root)
+Swain R: ✅ Yes (slow)
+
+**Sylas**
+Sylas Q: ✅ Yes (slow)
+Sylas W: ❌ No (None)
+Sylas E: ❌ No (None)
+Sylas R: ❌ No (None)
+
+**Syndra**
+Syndra Q: ❌ No (None)
+Syndra W: ✅ Yes (slow)
+Syndra E: ✅ Yes (stun)
+Syndra R: ❌ No (None)
+
+**TahmKench**
+TahmKench Q: ✅ Yes (stun, slow)
+TahmKench W: ❌ No (None)
+TahmKench E: ❌ No (None)
+TahmKench R: ❌ No (None)
+
+**Taliyah**
+Taliyah Q: ✅ Yes (slow)
+Taliyah W: ❌ No (None)
+Taliyah E: ✅ Yes (stun, slow)
+Taliyah R: ❌ No (None)
+
+**Talon**
+Talon Q: ❌ No (None)
+Talon W: ✅ Yes (slow)
+Talon E: ❌ No (None)
+Talon R: ❌ No (None)
+
+**Taric**
+Taric Q: ❌ No (None)
+Taric W: ❌ No (None)
+Taric E: ✅ Yes (stun)
+Taric R: ❌ No (None)
+
+**Teemo**
+Teemo Q: ✅ Yes (blind)
+Teemo W: ❌ No (None)
+Teemo E: ❌ No (None)
+Teemo R: ✅ Yes (slow)
+
+**Thresh**
+Thresh Q: ❌ No (None)
+Thresh W: ❌ No (None)
+Thresh E: ❌ No (None)
+Thresh R: ✅ Yes (slow)
+
+**Tristana**
+Tristana Q: ❌ No (None)
+Tristana W: ✅ Yes (slow)
+Tristana E: ❌ No (None)
+Tristana R: ❌ No (None)
+
+**Trundle**
+Trundle Q: ✅ Yes (slow)
+Trundle W: ❌ No (None)
+Trundle E: ✅ Yes (slow)
+Trundle R: ❌ No (None)
+
+**Tryndamere**
+Tryndamere Q: ❌ No (None)
+Tryndamere W: ❌ No (None)
+Tryndamere E: ❌ No (None)
+Tryndamere R: ❌ No (None)
+
+**TwistedFate**
+TwistedFate Q: ❌ No (None)
+TwistedFate W: ❌ No (None)
+TwistedFate E: ❌ No (None)
+TwistedFate R: ❌ No (None)
+
+**Twitch**
+Twitch Q: ❌ No (None)
+Twitch W: ✅ Yes (slow)
+Twitch E: ❌ No (None)
+Twitch R: ❌ No (None)
+
+**Udyr**
+Udyr Q: ❌ No (None)
+Udyr W: ❌ No (None)
+Udyr E: ✅ Yes (stun)
+Udyr R: ✅ Yes (slow)
+
+**Urgot**
+Urgot Q: ✅ Yes (slow)
+Urgot W: ✅ Yes (slow)
+Urgot E: ❌ No (None)
+Urgot R: ❌ No (None)
+
+**Varus**
+Varus Q: ❌ No (None)
+Varus W: ❌ No (None)
+Varus E: ✅ Yes (slow)
+Varus R: ❌ No (None)
+
+**Vayne**
+Vayne Q: ❌ No (None)
+Vayne W: ❌ No (None)
+Vayne E: ✅ Yes (stun)
+Vayne R: ❌ No (None)
+
+**Veigar**
+Veigar Q: ❌ No (None)
+Veigar W: ❌ No (None)
+Veigar E: ✅ Yes (stun)
+Veigar R: ❌ No (None)
+
+**Velkoz**
+Velkoz Q: ✅ Yes (slow)
+Velkoz W: ❌ No (None)
+Velkoz E: ❌ No (None)
+Velkoz R: ❌ No (None)
+
+**Vex**
+Vex Q: ❌ No (None)
+Vex W: ❌ No (None)
+Vex E: ✅ Yes (slow)
+Vex R: ❌ No (None)
+
+**Vi**
+Vi Q: ❌ No (None)
+Vi W: ❌ No (None)
+Vi E: ❌ No (None)
+Vi R: ❌ No (None)
+
+**Viego**
+Viego Q: ❌ No (None)
+Viego W: ✅ Yes (stun)
+Viego E: ❌ No (None)
+Viego R: ❌ No (None)
+
+**Viktor**
+Viktor Q: ❌ No (None)
+Viktor W: ✅ Yes (stun, slow)
+Viktor E: ❌ No (None)
+Viktor R: ❌ No (None)
+
+**Vladimir**
+Vladimir Q: ❌ No (None)
+Vladimir W: ✅ Yes (slow)
+Vladimir E: ❌ No (None)
+Vladimir R: ❌ No (None)
+
+**Volibear**
+Volibear Q: ✅ Yes (stun)
+Volibear W: ❌ No (None)
+Volibear E: ✅ Yes (slow)
+Volibear R: ✅ Yes (slow)
+
+**Warwick**
+Warwick Q: ❌ No (None)
+Warwick W: ❌ No (None)
+Warwick E: ❌ No (None)
+Warwick R: ✅ Yes (suppress)
+
+**Xayah**
+Xayah Q: ❌ No (None)
+Xayah W: ❌ No (None)
+Xayah E: ✅ Yes (root)
+Xayah R: ❌ No (None)
+
+**Xerath**
+Xerath Q: ❌ No (None)
+Xerath W: ✅ Yes (slow)
+Xerath E: ✅ Yes (stun)
+Xerath R: ❌ No (None)
+
+**XinZhao**
+XinZhao Q: ❌ No (None)
+XinZhao W: ✅ Yes (slow)
+XinZhao E: ✅ Yes (slow)
+XinZhao R: ❌ No (None)
+
+**Yasuo**
+Yasuo Q: ❌ No (None)
+Yasuo W: ❌ No (None)
+Yasuo E: ❌ No (None)
+Yasuo R: ❌ No (None)
+
+**Yone**
+Yone Q: ❌ No (None)
+Yone W: ❌ No (None)
+Yone E: ❌ No (None)
+Yone R: ❌ No (None)
+
+**Yorick**
+Yorick Q: ❌ No (None)
+Yorick W: ❌ No (None)
+Yorick E: ✅ Yes (slow)
+Yorick R: ❌ No (None)
+
+**Yuumi**
+Yuumi Q: ✅ Yes (slow)
+Yuumi W: ❌ No (None)
+Yuumi E: ❌ No (None)
+Yuumi R: ❌ No (None)
+
+**Zac**
+Zac Q: ❌ No (None)
+Zac W: ❌ No (None)
+Zac E: ❌ No (None)
+Zac R: ✅ Yes (slow)
+
+**Zed**
+Zed Q: ❌ No (None)
+Zed W: ❌ No (None)
+Zed E: ✅ Yes (slow)
+Zed R: ❌ No (None)
+
+**Zeri**
+Zeri Q: ❌ No (None)
+Zeri W: ✅ Yes (slow)
+Zeri E: ❌ No (None)
+Zeri R: ❌ No (None)
+
+**Ziggs**
+Ziggs Q: ❌ No (None)
+Ziggs W: ❌ No (None)
+Ziggs E: ✅ Yes (slow)
+Ziggs R: ❌ No (None)
+
+**Zilean**
+Zilean Q: ✅ Yes (stun)
+Zilean W: ❌ No (None)
+Zilean E: ❌ No (None)
+Zilean R: ❌ No (None)
+
+**Zoe**
+Zoe Q: ❌ No (None)
+Zoe W: ❌ No (None)
+Zoe E: ✅ Yes (sleep)
+Zoe R: ❌ No (None)
+
+**Zyra**
+Zyra Q: ❌ No (None)
+Zyra W: ✅ Yes (root)
+Zyra E: ✅ Yes (root)
+Zyra R: ❌ No (None)
+

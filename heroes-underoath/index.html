@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Phaser Rift Background + Champions</title>
+  <!-- Include Phaser via CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/phaser@3/dist/phaser.js"></script>
+  <style>
+    /* Make the entire page fill the window, no scrollbars or white space */
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background: black;
+      /* ensures black margins outside the canvas */
+    }
+
+    canvas {
+      display: block;
+    }
+
+    /* Dropdown in the top-right */
+    #champion-select {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      z-index: 999;
+      font-size: 16px;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Dropdown for champion selection -->
+  <select id="champion-select"></select>
+
+  <script>
+    let championData;
+    let player;
+    let championName = 'Aatrox'; // default champion
+    let championTitle;
+    let championMoveSpeed;
+
+    let nameText, titleText, speedText;
+    let bg; // background image reference
+
+    const MyScene = {
+      preload() {
+        // Load champion data
+        this.load.json('champions', 'champion.json');
+        // Load Summoner's Rift image
+        this.load.image('riftBackground', 'rift.png');
+        // Load a placeholder sprite for the player
+        this.load.image('player', 'https://labs.phaser.io/assets/sprites/phaser-dude.png');
+      },
+
+      create() {
+        // Grab champion data from cache
+        championData = this.cache.json.get('champions');
+        if (!championData || !championData.data) {
+          console.error('Champion JSON not loaded or invalid.');
+          return;
+        }
+
+        // === 1) Background (Rift) ===
+        // Place the image in the center of the "virtual" game space (1920×1080).
+        // This ensures the entire image is visible at the correct aspect ratio,
+        // and Phaser will letterbox any extra space with black.
+        bg = this.add.image(this.scale.width / 2, this.scale.height / 2, 'riftBackground');
+        bg.setOrigin(0.5, 0.5); // center the image
+        // We do NOT use setDisplaySize here because our config matches the image's ratio.
+        // This ensures no stretching, and the entire rift is shown.
+
+        // === 2) Champion Dropdown ===
+        const championKeys = Object.keys(championData.data);
+        const championSelect = document.getElementById('champion-select');
+        championKeys.forEach(champKey => {
+          const option = document.createElement('option');
+          option.value = champKey;
+          option.textContent = champKey;
+          championSelect.appendChild(option);
+        });
+        championSelect.addEventListener('change', event => {
+          championName = event.target.value;
+          updateChampionInfo();
+        });
+
+        // === 3) Player Sprite ===
+        // Start the player in the center
+        player = this.add.sprite(this.scale.width / 2, this.scale.height / 2, 'player');
+        player.setDepth(1); // bring above background
+
+        // === 4) Champion Info Text ===
+        nameText = this.add.text(20, 20, '', { fontSize: '20px', fill: '#ffffff' });
+        titleText = this.add.text(20, 50, '', { fontSize: '20px', fill: '#ffffff' });
+        speedText = this.add.text(20, 80, '', { fontSize: '20px', fill: '#ffffff' });
+        updateChampionInfo();
+
+        // === 5) Right-Click Movement ===
+        this.input.mouse.disableContextMenu(); // allow right-click
+        this.input.on('pointerdown', pointer => {
+          if (pointer.rightButtonDown()) {
+            const distance = Phaser.Math.Distance.Between(player.x, player.y, pointer.x, pointer.y);
+            // Convert distance to time based on champion movespeed
+            const duration = (distance / championMoveSpeed) * 1000;
+            this.tweens.add({
+              targets: player,
+              x: pointer.x,
+              y: pointer.y,
+              duration: duration,
+              ease: 'Linear'
+            });
+          }
+        });
+      },
+
+      update() {
+        // If needed, put per-frame logic here
+      }
+    };
+
+    // Helper to update champion info display
+    function updateChampionInfo() {
+      const champ = championData.data[championName];
+      championTitle = champ.title;
+      championMoveSpeed = champ.stats.movespeed;
+      nameText.setText(`Champion: ${championName}`);
+      titleText.setText(`Title: ${championTitle}`);
+      speedText.setText(`Movement Speed: ${championMoveSpeed}`);
+    }
+
+    // === Phaser Config ===
+    // We match the Rift image's ratio (assume 1920×1080 for 16:9).
+    // 'FIT' mode => keeps aspect ratio, black bars if window isn't 16:9.
+    const config = {
+      type: Phaser.AUTO,
+      width: 1920,
+      height: 1080,
+      backgroundColor: '#000000',  // black background
+      scale: {
+        mode: Phaser.Scale.FIT,
+        autoCenter: Phaser.Scale.CENTER_BOTH
+      },
+      scene: MyScene
+    };
+
+    // Create the game
+    const game = new Phaser.Game(config);
+  </script>
+</body>
+
+</html>
