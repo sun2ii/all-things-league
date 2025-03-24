@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Champion Search</title>
+  <script src="script.js" defer></script>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 10px;
+      /* max-height: 500px; */
+      overflow-y: scroll;
+      margin-top: 20px;
+    }
+    .champion {
+      padding: 8px;
+      background: #f3f3f3;
+      text-align: center;
+      border-radius: 5px;
+      font-size: 14px;
+    }
+    input {
+      padding: 8px;
+      font-size: 16px;
+      width: 300px;
+    }
+  </style>
+</head>
+<body>
+  <h2>League of Legends Champions</h2>
+  <input type="text" id="searchBar" placeholder="Search champions...">
+  <div id="championGrid" class="grid"></div>
+</body>
+</html>
+

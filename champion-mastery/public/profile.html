@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Champion Profile</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    .back-link {
+      display: block;
+      margin-bottom: 20px;
+    }
+
+    .profile {
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      padding: 15px;
+    }
+
+    .profile img {
+      display: block;
+      margin: 0 auto 20px;
+      max-width: 200px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <a class="back-link" href="index.html">← Back to List</a>
+    <h1 id="championName">Champion Profile</h1>
+    <div id="profileDetails" class="profile">
+      <p>Loading champion details...</p>
+    </div>
+  </div>
+  <script>
+    // Get the champion name from the URL query parameter (e.g., ?champion=Ahri)
+    const urlParams = new URLSearchParams(window.location.search);
+    const championName = urlParams.get('champion');
+    if (championName) {
+      document.getElementById('championName').textContent = championName + " Profile";
+      // Fetch the champion details from the new endpoint
+      fetch(`/champion?name=${encodeURIComponent(championName)}`)
+        .then(response => response.json())
+        .then(championData => {
+          const profileDiv = document.getElementById('profileDetails');
+          profileDiv.innerHTML = ''; // Clear the loading text
+
+          // Champion image
+          const img = document.createElement('img');
+          // Adjust the image path if necessary
+          img.src = `images/${championData.image.full}`;
+          img.alt = championData.name;
+          profileDiv.appendChild(img);
+
+          // Champion title
+          const title = document.createElement('h2');
+          title.textContent = championData.title;
+          profileDiv.appendChild(title);
+
+          // Champion blurb
+          const blurb = document.createElement('p');
+          blurb.textContent = championData.blurb;
+          profileDiv.appendChild(blurb);
+
+          // Optionally, you can render more details (stats, tags, etc.)
+        })
+        .catch(error => {
+          console.error('Error fetching champion data:', error);
+          document.getElementById('profileDetails').innerHTML = '<p>Error loading champion details.</p>';
+        });
+    } else {
+      document.getElementById('profileDetails').innerHTML = '<p>No champion specified.</p>';
+    }
+  </script>
+</body>
+
+</html>
